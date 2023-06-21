@@ -1,18 +1,12 @@
-.header-logo {
+.navigation-top-banner {
     background-color: #1f2937;
     color: white;
     display: flex;
-    justify-content: flex-start;
 }
 
-.dark-header-links {
+.navigation-top {
     background-color: #1f2937;
     color: white;
     display: flex;
     justify-content: flex-end;
-}
-
-.awesome-heading {
-    background-color: #1f2937;
-    color: white;
 }
