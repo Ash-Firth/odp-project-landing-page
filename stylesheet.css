@@ -1,0 +1,15 @@
+.header-logo {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.dark-header-links {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+
