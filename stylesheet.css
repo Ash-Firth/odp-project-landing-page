@@ -1,12 +1,12 @@
-.navigation-top-banner {
-    background-color: #1f2937;
-    color: white;
+.flexbox-container {
     display: flex;
 }
 
-.navigation-top {
+.flexbox-item-top {
     background-color: #1f2937;
     color: white;
-    display: flex;
+}
+
+div.flexbox-item-top.flexbox-item-2.flexbox-item-3.flexbox-item-4 {
     justify-content: flex-end;
 }
