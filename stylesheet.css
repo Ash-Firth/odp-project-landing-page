@@ -110,4 +110,12 @@
 
 .image-descriptor {
     align-items: flex-start;
+    width: 205px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: white;
+    min-height: 200px;
+    min-width: auto;
+    border-radius: 25px;
 }
