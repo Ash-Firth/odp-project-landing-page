@@ -178,3 +178,16 @@
     border: solid white 1px;
     font-weight: 600;
 }
+
+.flexbox-container-copyright {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.copyright-text {
+    text-align: center;
+    color: white;
+}
